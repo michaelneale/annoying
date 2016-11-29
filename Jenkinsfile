@@ -4,7 +4,7 @@ node {
        sh "echo 42"
        
     stage "boo"
-       sh "echo 43"
+       sh "echox 43"
     
 }
     
