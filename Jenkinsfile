@@ -7,5 +7,4 @@ pipeline {
               echo 'End Build'
             }
         }
-
 }
